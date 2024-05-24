@@ -1640,6 +1640,10 @@ a.btn-mod:focus{
     transform: translate(0,-100%);
 }
 
+span.btn-animate-y-1 {
+    color: #1437D9;
+}
+
 .btn-animate-y{
     position: relative;
     display: block;
