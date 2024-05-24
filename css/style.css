@@ -956,7 +956,7 @@ hr.thick{
     left: 0;
     width: 100%;
     height: 100%;
-    background: #fff;
+    background: #d99414;
     transform: translate(-50%, -50%) rotate(30deg);
 }
 .hs-icon{
@@ -2811,7 +2811,7 @@ a.bg-video-button-pause{
     display: block;
     width: 160%;
     height: 520%;
-    background: var(--color-dark-1);
+    background: #1437D9;
     border-radius: 100%;
 }
 .edge-top-figure-2{
@@ -2821,7 +2821,7 @@ a.bg-video-button-pause{
     left: 0;
     padding-top: 15%;
     overflow: hidden;
-    background: var(--color-dark-1);
+    background: #1437D9;
 }
 .edge-top-figure-2:before{
     content: "";
@@ -4243,7 +4243,7 @@ a.logo:hover{
     background-color: var(--color-gray-light-2);
 }
 .bg-dark-1{
-    background-color: var(--color-dark-1) !important;
+    background-color: #1437D9 !important;
 }
 .bg-dark-2{
     background-color: var(--color-dark-2) !important;
@@ -5000,6 +5000,13 @@ a.logo:hover{
     opacity: .9;
 }
 
+span.d-block.wow.fadeRotateIn.animated {
+    color: #1437D9;
+}
+
+span .d-inline-block{
+    color: #1437D9;
+}
 /*
  * Decorative elements
  */
@@ -5827,6 +5834,7 @@ img.services-image{
     position: relative;
     display: inline-block;    
     transition: transform .5s var(--ease-out-short);
+    color: #1437D9;
 }
 .services-4-title > b{    
     position: absolute;
