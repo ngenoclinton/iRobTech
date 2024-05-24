@@ -1051,6 +1051,8 @@
     
     html:not(.no-touch) .page-section, html:not(.no-touch) .home-section, html:not(.no-touch) .small-section{
         background-attachment: scroll !important;
+        background-position-y: -20vh;
+    
     }
     
 }
