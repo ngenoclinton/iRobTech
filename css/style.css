@@ -7873,6 +7873,11 @@ a.portfolio-5-link:hover .portfolio-5-title span{
     background-size: 100% 1px;
 }
 
+.lpbtn{
+    color: #1437D9;
+    border: 1px solid #1437D9;
+    padding: .5rem 1rem;
+}
 
 /* ==============================
    Call action 1 section
