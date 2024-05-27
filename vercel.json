@@ -1,0 +1,12 @@
+{
+    "routes": [
+      { "src": "/home", "dest": "/index.html" },
+      { "src": "/about", "dest": "/about.html" },
+      { "src": "/services", "dest": "/services.html" },
+      { "src": "/portflio", "dest": "/portflio.html" },
+      { "src": "/portflio/motokaa", "dest": "/portflio/motokaa.html" },
+      { "src": "/portflio/yakini", "dest": "/portflio/yakini.html" },
+      { "src": "/portflio/sherehe", "dest": "/portflio/sherehe.html" },
+      { "src": "/portflio/communication-platform", "dest": "/portflio/communication-platform.html" }
+    ]
+  }
