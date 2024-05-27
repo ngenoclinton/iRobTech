@@ -7,6 +7,6 @@
       { "src": "/portfolio/motokaa", "dest": "/portfolio/motokaa.html" },
       { "src": "/portfolio/yakini", "dest": "/portfolio/yakini.html" },
       { "src": "/portfolio/sherehe", "dest": "/portfolio/sherehe.html" },
-      { "src": "/portfolio/communication-platform", "dest": "/portflio/communication-platform.html" }
+      { "src": "/portfolio/communication-platform", "dest": "/portfolio/communication-platform.html" }
     ]
   }
