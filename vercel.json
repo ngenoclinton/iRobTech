@@ -3,10 +3,10 @@
       { "src": "/home", "dest": "/index.html" },
       { "src": "/about", "dest": "/about.html" },
       { "src": "/services", "dest": "/services.html" },
-      { "src": "/portflio", "dest": "/portflio.html" },
-      { "src": "/portflio/motokaa", "dest": "/portflio/motokaa.html" },
-      { "src": "/portflio/yakini", "dest": "/portflio/yakini.html" },
-      { "src": "/portflio/sherehe", "dest": "/portflio/sherehe.html" },
-      { "src": "/portflio/communication-platform", "dest": "/portflio/communication-platform.html" }
+      { "src": "/portfolio", "dest": "/portfolio.html" },
+      { "src": "/portfolio/motokaa", "dest": "/portfolio/motokaa.html" },
+      { "src": "/portfolio/yakini", "dest": "/portfolio/yakini.html" },
+      { "src": "/portfolio/sherehe", "dest": "/portfolio/sherehe.html" },
+      { "src": "/portfolio/communication-platform", "dest": "/portflio/communication-platform.html" }
     ]
   }
