@@ -525,7 +525,7 @@
                 $(".parallax-2").each(function(){$(this).parallax("50%", 0.2);});
                 $(".parallax-3").each(function(){$(this).parallax("50%", 0.3);});
                 $(".parallax-4").each(function(){$(this).parallax("50%", 0.4);});
-                $(".parallax-5").each(function(){$(this).parallax("50%", 0.5);});
+                $(".parallax-5").each(function(){$(this).parallax("50%", "50%");});
                 $(".parallax-6").each(function(){$(this).parallax("50%", 0.6);});
                 $(".parallax-7").each(function(){$(this).parallax("50%", 0.7);});
                 $(".parallax-8").each(function(){$(this).parallax("50%", 0.8);});
@@ -540,7 +540,7 @@
                 $(".parallax-2").each(function(){$(this).parallax("50%", 0);});
                 $(".parallax-3").each(function(){$(this).parallax("50%", 0);});
                 $(".parallax-4").each(function(){$(this).parallax("50%", 0);});
-                $(".parallax-5").each(function(){$(this).parallax("50%", 0);});
+                $(".parallax-5").each(function(){$(this).parallax("50%", "50%");});
                 $(".parallax-6").each(function(){$(this).parallax("50%", 0);});
                 $(".parallax-7").each(function(){$(this).parallax("50%", 0);});
                 $(".parallax-8").each(function(){$(this).parallax("50%", 0);});
